@@ -1,0 +1,1 @@
+cat example-file1.txt | RootCodeSample/bin/Release/netcoreapp3.1/osx-x64/publish/RootCodeSample
